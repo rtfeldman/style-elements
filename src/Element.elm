@@ -100,7 +100,7 @@ By building your view with `Elements`, you have a single place to go to adjust o
 
 # Layout
 
-A layout element will explicitly define how it's children are layed out.
+A layout element will explicitly define how its children are laid out.
 
 Make sure to check out the Style Element specific attributes in `Element.Attributes` as they will help out when doing layout!
 
